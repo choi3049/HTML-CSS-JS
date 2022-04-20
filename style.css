@@ -102,8 +102,8 @@ a {
   font-size: 1.1em;
 }
 
-.started {
-  animation: fadein 10s;
+#started {
+  animation: fadein 3s;
 }
 
 @keyframes fadein {
